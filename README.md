@@ -12,9 +12,12 @@
 
 ## 📱 App Preview
 
-| Meeting Management | Resource Directory | Upcoming Schedule |
+Login | Clinician/Counselor Home Screen | Clinician/Counselor Cases Screen | Clinician/Counselor Meeting Management |  Resource Directory | Clinician/Counselor | Profile Screen
 |-------------------|-------------------|------------------|
-| <img src="screenshots/Supervisor meeting (3).png" width="200"> | <img src="screenshots/Health Resources (1).png" width="200"> | <img src="screenshots/Supervisor meeting (2).png" width="200"> |
+| <img src="https://www.figma.com/design/pmpfvFrQhALUZEvtZyu4Fv/Shaina-%7C%7C-Staff-Management-%7C%7C-Application?node-id=31-946&t=jm4FnlWu1EejqIpa-4" width="200"> | <img src="[screenshots/Health Resources (1).png](https://www.figma.com/design/pmpfvFrQhALUZEvtZyu4Fv/Shaina-%7C%7C-Staff-Management-%7C%7C-Application?node-id=49-511&t=jm4FnlWu1EejqIpa-4)" width="200"> | <img src="[screenshots/Supervisor meeting (2).png](https://www.figma.com/design/pmpfvFrQhALUZEvtZyu4Fv/Shaina-%7C%7C-Staff-Management-%7C%7C-Application?node-id=90-1809&t=jm4FnlWu1EejqIpa-4)" width="200"> |
+<img src="[screenshots/Supervisor meeting (2).png](https://www.figma.com/design/pmpfvFrQhALUZEvtZyu4Fv/Shaina-%7C%7C-Staff-Management-%7C%7C-Application?node-id=90-1809&t=jm4FnlWu1EejqIpa-4)](https://www.figma.com/design/pmpfvFrQhALUZEvtZyu4Fv/Shaina-%7C%7C-Staff-Management-%7C%7C-Application?node-id=177-1305&t=jm4FnlWu1EejqIpa-4)" width="200"> |
+<img src="[[screenshots/Supervisor meeting (2).png](https://www.figma.com/design/pmpfvFrQhALUZEvtZyu4Fv/Shaina-%7C%7C-Staff-Management-%7C%7C-Application?node-id=90-1809&t=jm4FnlWu1EejqIpa-4)](https://www.figma.com/design/pmpfvFrQhALUZEvtZyu4Fv/Shaina-%7C%7C-Staff-Management-%7C%7C-Application?node-id=177-1305&t=jm4FnlWu1EejqIpa-4)](https://www.figma.com/design/pmpfvFrQhALUZEvtZyu4Fv/Shaina-%7C%7C-Staff-Management-%7C%7C-Application?node-id=339-3769&t=jm4FnlWu1EejqIpa-4)" width="200">
+
 
 ## ✨ Key Features
 
